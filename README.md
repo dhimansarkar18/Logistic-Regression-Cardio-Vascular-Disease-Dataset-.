@@ -17,7 +17,7 @@ Python Notebook:
 # Instructions on How to Launch
  - I. Open the python notebook on google colab. 
  - II. Mount the Google Drive: drive.mount("/content/drive") 
- - III. Link the working directories: census = "/content/drive/MyDrive/MSBA_Colab_2020/ML_Algorithms/CA05/Data/cvd_data.csv"
+ - III. Link the working directories: "/content/drive/MyDrive/MSBA_Colab_2020/ML_Algorithms/CA05/Data/cvd_data.csv"
  - IV. Run the Code 
  - V. Generating the Accuracy and the ROC AUC Score for the best model
 							
