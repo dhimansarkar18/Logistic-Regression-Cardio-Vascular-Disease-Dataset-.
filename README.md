@@ -19,7 +19,7 @@ Python Notebook:
  - II. Mount the Google Drive: drive.mount("/content/drive") 
  - III. Link the working directories: census = "/content/drive/MyDrive/MSBA_Colab_2020/ML_Algorithms/CA05/Data/cvd_data.csv"
  - IV. Run the Code 
- - V. Compare Performance Across the Four Models
+ - V. Generating the best Accuracy and the ROC AUC Score for the best model
 							
 # Procedures
 
